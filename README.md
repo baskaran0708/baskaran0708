@@ -1,148 +1,132 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ========================================================= -->
+<!-- 🔥 CUSTOM AI BANNER (Neon + Futuristic) -->
+<!-- Replace with a preferred banner later if you want -->
+<p align="center">
+  <img src="https://i.ibb.co/3sdjxbg/ai-banner-futuristic-tech.jpg" width="100%"/>
+</p>
 
-<!-- Animated Typing Header -->
+<!-- ========================================================= -->
+<!-- 🔥 Animated Typing Header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Baskaran+👋;C%2B%2B+Developer+%7C+AI+Engineer+%7C+Systems+Programmer;Building+High-Performance+%26+AI-Driven+Software+⚙️🧠"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&center=true&vCenter=true&width=980&lines=Hi+there%2C+I'm+Baskaran+👋;C%2B%2B+Developer+%7C+AI+Engineer+%7C+Systems+Programmer;Building+High-Performance+Software+%26+AI+Models+⚙️🧠;Mastering+CMake+%7C+Boost+%7C+vcpkg+%7C+RabbitMQ"/>
   </a>
 </p>
 
-<!-- AI Style Header Badges -->
+<!-- ========================================================= -->
+<!-- 🔥 NEON GLOW BADGES + VIEW COUNTER -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Software%20Developer-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Role-Software%20Developer-9d4edd?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Focus-C%2B%2B%20%7C%20AI%20%7C%20Systems-ff6f00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Domain-Software%20Engineering-00bcd4?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=baskaran0708&label=PROFILE+VIEWS&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tech-AI%20%2F%20CMake%20%2F%20Boost%20%2F%20vcpkg-00bcd4?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=baskaran0708&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# ⚡ Terminal-Style Introduction
 
-<img align="right" width="350" height="250" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+$ whoami
 
-- 💼 **Software Developer**  
-- 🧠 Strong in **C++**, **AI**, **Backend**, **System-level programming**  
-- 🔧 Skilled across **multi-language ecosystems**: C++, Java, C#, Python  
-- 🌐 Passion for **performance engineering**, **AI models**, **system tools**  
-- 📫 Connect with me:  
-  [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https:t=WtMCtZ_oET6hMyPbBcf7pg&s=09)
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/baskaran-a-b6757625a/)
-- 😄 Pronouns: **Techie**  
-- 🌏 Fun fact: I know **Japanese 🇯🇵**  
+Baskaran — Software Developer | C++ Systems Engineer | AI Practitioner
+
+$ skills --primary
+
+C++ · CMake · Boost · vcpkg · RabbitMQ · OpenCV · DCMTK · PyTorch · MONAI
+
+$ skills --secondary
+
+Java · C# · Python · Web Tech (HTML/CSS/JS/React)
+
+$ mission
+
+Build high-performance systems & intelligent AI workflows ⚙️🤖
 
 ---
 
-# 🟦 **C++ Developer — Full Ecosystem (PRIMARY)**
+# 🟦 **C++ Developer (Primary Identity)**  
+A fully dedicated section with **3D rotating logos**, **neon-frame**, and **tech grid**.
 
+<!-- 🔥 3D ROTATING C++ LOGO -->
 <p align="center">
-  <img width="70" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img width="70" src="https://cmake.org/wp-content/uploads/2023/11/CMake-Logo.png"/>
-  <img width="70" src="https://img.icons8.com/color/48/000000/package.png"/> <!-- vcpkg -->
-  <img width="70" src="https://img.icons8.com/fluency/48/null/boost.png"/>
-  <img width="70" src="https://img.icons8.com/color/48/null/visual-studio.png"/>
-  <img width="70" src="https://img.icons8.com/ios-filled/50/000000/message-queue.png"/>
-  <img width="70" src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-database-cloud-flatart-icons-outline-flatarticons.png"/>
+  <img src="https://raw.githubusercontent.com/ItsukiHirano/3d-icons/main/cpp-3d.gif" width="150"/>
 </p>
 
-## 🔹 **C++ Expertise**
-- Modern C++: **C++11 · C++14 · C++17**  
-- STL, templates, RAII, memory management  
-- Multithreading: `std::thread`, async, mutex, futures  
-- High-performance coding & optimizations  
-- Static/Dynamic libs, linking, ABI, toolchains  
-- CMake-based build systems (targets, presets, configs)  
-- API integrations & backend systems in C++  
+<div align="center">
 
----
+### 🚀 **C++ Ecosystem Mastery**
 
-## 🔹 **C++ Ecosystem / Libraries**
-| Category | Tech |
-|---------|------|
-| **Build Systems** | CMake, MSBuild |
-| **Package Managers** | vcpkg, (Conan basics) |
-| **Core Libraries** | Boost (ASIO, Filesystem, Process, Threads) |
-| **Imaging Libraries** | OpenCV, ITK (basic), stb_image |
-| **Messaging** | RabbitMQ (C++ AMQP clients) |
+| Category | Tools / Libraries |
+|---------|-------------------|
+| **Build Systems** | CMake (presets, toolchains, modern targets) |
+| **Package Managers** | vcpkg (primary), Conan (basics) |
+| **Core Libraries** | Boost (ASIO, FS, Process, Threads), fmt, spdlog |
+| **Imaging** | OpenCV, ITK, stb_image |
+| **DICOM** | DCMTK (core tools, datasets, networks) |
+| **Messaging** | RabbitMQ (AMQP C++ integrations) |
 | **Networking** | Boost.Asio, cpp-httplib |
-| **Logging** | spdlog, glog |
-| **Math / Compute** | Eigen |
 | **Testing** | GTest |
+| **Compilers** | MSVC, GCC, Clang |
+
+</div>
 
 ---
 
-## 🔹 **Compilers & IDEs**
-- MSVC  
-- GCC  
-- Clang  
-- Visual Studio Community  
-- VS Code  
-- CLion (basics)
+# 🧠 **AI & ML Developer**
 
----
-
-# 🧠 AI / Machine Learning Stack
-
+<!-- 🔥 3D AI BRAIN LOGO -->
 <p align="center">
-  <img width="60" src="https://img.icons8.com/color/48/000000/artificial-intelligence.png"/>
-  <img width="60" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-  <img width="60" src="https://pytorch.org/assets/images/pytorch-logo.png"/>
-  <img width="60" src="https://img.icons8.com/fluency/48/000000/computer-chip.png"/>
+  <img src="https://raw.githubusercontent.com/ItsukiHirano/3d-icons/main/brain-3d.gif" width="160"/>
 </p>
 
-### 🔹 AI Models / Algorithms
-- CNNs: ResNet, DenseNet, MobileNet  
-- U-Net, Attention U-Net  
-- Autoencoders, Feature extraction  
-- Classical ML: SVM, RF, K-Means, PCA  
-
-### 🔹 AI Tools
-- PyTorch · MONAI  
-- TensorFlow / Keras  
-- NumPy · Pandas · SciPy  
-- scikit-learn  
-- ONNX · ONNX Runtime  
-- Jupyter / Anaconda  
+### 🤖 What I Work With:
+- CNNs → ResNet, DenseNet, VGG, MobileNet  
+- Segmentation → U-Net, Attention U-Net  
+- Autoencoders / Feature learning  
+- ML → SVM, RF, KMeans, PCA  
+- Tools → PyTorch, MONAI, ONNX, TensorFlow  
+- Data stack → NumPy, SciPy, Pandas  
 
 ---
 
 # ☕ Java Developer
 
 <p align="center">
-  <img height="60" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img width="80" src="https://raw.githubusercontent.com/ItsukiHirano/3d-icons/main/java-3d.gif"/>
 </p>
 
-- Core Java (OOP, multithreading, collections)  
-- REST APIs (Spring Boot basics)  
-- Backend utilities & JSON processing  
+- Core Java, OOP, multithreading  
+- Spring Boot basics  
+- Backend-style tools and utilities  
 
 ---
 
 # 🧱 C# Developer
 
 <p align="center">
-  <img height="60" src="https://img.icons8.com/color/48/null/c-sharp-logo.png"/>
+  <img width="80" src="https://raw.githubusercontent.com/ItsukiHirano/3d-icons/main/csharp-3d.gif"/>
 </p>
 
-- Console tools & utilities  
-- .NET basics  
-- Interop tools around AI/C++ pipelines  
+- .NET utilities  
+- Console tools  
+- API wrappers around AI/C++ pipelines  
 
 ---
 
 # 🐍 Python Developer
 
 <p align="center">
-  <img height="60" src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img width="85" src="https://raw.githubusercontent.com/ItsukiHirano/3d-icons/main/python-3d.gif"/>
 </p>
 
-- AI model prototyping  
-- Dataset tools  
-- Automation scripts  
+- Automation  
+- AI prototyping  
+- Image processing  
+- Metrics & tools  
 
 ---
 
-# 🌐 Web Skills
+# 🌐 Web Technologies
 
 <p align="center">
   <img width="50" src="https://img.icons8.com/color/48/000000/html-5.png"/>
@@ -153,25 +137,16 @@
 
 ---
 
-# 🛠️ Tools
-
+# 🎨 Neon Tech Divider  
 <p align="center">
-  <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/null/visual-studio.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-  <img height="50" src="https://img.icons8.com/color/50/000000/git.png"/>
-  <img height="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
-  <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+  <img src="https://i.ibb.co/FDXSCvv/neon-divider.gif" width="90%"/>
 </p>
-
----
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baskaran0708&layout=compact&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=baskaran0708&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baskaran0708&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=baskaran0708&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -180,7 +155,19 @@
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 3D Contribution Snake
+
 <p align="center">
   <img src="https://github.com/baskaran0708/baskaran0708/blob/output/github-contribution-grid-snake.svg"/>
 </p>
+
+---
+
+# 🌗 Dark/Light Mode Auto Switch (CSS Magic)
+
+```html
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/3sdjxbg/ai-banner-futuristic-tech.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/0q9zL5w/light-banner.jpg">
+  <img alt="Baskaran Banner" src="https://i.ibb.co/3sdjxbg/ai-banner-futuristic-tech.jpg">
+</picture>
