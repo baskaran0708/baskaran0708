@@ -1,82 +1,152 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Baskaran&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20C++%20%26%20AI%20Specialist&descAlignY=51&descAlign=50" width="100%"/>
-</div>
+<!-- ========================================================= -->
+<!-- 🔥 CUSTOM AI BANNER -->
+<p align="center">
+  <img src="https://i.ibb.co/3sdjxbg/ai-banner-futuristic-tech.jpg" width="100%"/>
+</p>
 
-<div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+High-Performance+Medical+AI;Mastering+Modern+C%2B%2B+(C%2B%2B20)+%26+System+Design;Developing+Scalable+Solutions+in+C%23+and+Java;Bridge+between+Hardware+and+Intelligence&center=true&width=600&height=50&color=33ccff&vCenter=true&size=25" />
-</a>
-</div>
-
-<br/>
-
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/baskaran-a-b6757625a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<!-- ========================================================= -->
+<!-- 🔥 Animated Typing Header -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=900&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Baskaran+👋;Software+Developer+%7C+AI+Engineer+%7C+C%2B%2B+Dev;Building+AI+%26+System-Level+Software+⚙️🧠;Love+Coding+in+C%2B%2B%2C+Python%2C+Java%2C+C%23"/>
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+</p>
 
-</div>
-
-<hr/>
-
-### 👨‍💻 About Me
-
-I am a **Software Developer** with a strong foundation in Computer Science (MCA). I specialize in building high-performance applications that bridge the gap between **Systems Programming (C++)** and **Artificial Intelligence**.
-
-* 🔭 **Current Role:** Software Developer focused on Medical Imaging & AI.
-* 🛠 **Core Strength:** Developing robust C++ pipelines using **Modern C++ (C++20)**, **CMake**, and **vcpkg**.
-* 🧠 **Domain Expertise:** Medical Image Processing (**DCMTK, ITK**) and Computer Vision (**OpenCV**).
-* ⚡ **Performance:** Optimization using **Intel IPP**, **Multi-processing**, and **IPC**.
-* 👯 **Looking to collaborate on:** AI-driven Healthcare solutions and Large Scale System Designs.
-* 💬 **Ask me about:** C++, Memory Management, DICOM standards, and System Architecture.
-* 🇯🇵 **Fun Fact:** I speak Japanese!
+<!-- ========================================================= -->
+<!-- 🔥 Neon Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Software%20Developer-9d4edd?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20C%2B%2B%20%7C%20Systems-ff6f00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Domain-Medical%20Imaging%20%2F%20AI-00bcd4?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=baskaran0708&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen"/>
+</p>
 
 ---
 
-### 🚀 Technical Arsenal
+## Hi there 👋 It's me **Baskaran**
 
-#### ⚡ Languages & Core
-| C++ (Modern) | C# | Java | Python |
-| :---: | :---: | :---: | :---: |
-| <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="50"/> | <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="50"/> | <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="50"/> | <img src="https://img.icons8.com/color/48/000000/python.png" width="50"/> |
+### 🚀 Software Developer | AI Engineer | C++ Enthusiast
 
-#### 🏥 C++ Ecosystem & Medical Imaging (The Specialist Stack)
-*Technologies I use to build high-performance imaging solutions.*
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-| **Build & Package** | **Medical & Vision** | **System & Boost** | **Optimization** |
-| :--- | :--- | :--- | :--- |
-| ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) <br/> ![vcpkg](https://img.shields.io/badge/vcpkg-Overview-blue?style=for-the-badge) | ![DCMTK](https://img.shields.io/badge/DCMTK-DICOM-red?style=for-the-badge) <br/> ![ITK](https://img.shields.io/badge/ITK-Insight_Toolkit-blueviolet?style=for-the-badge) <br/> ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) | ![Boost](https://img.shields.io/badge/Boost.org-C%2B%2B-orange?style=for-the-badge) <br/> ![RapidJSON](https://img.shields.io/badge/RapidJSON-Parser-lightgrey?style=for-the-badge) <br/> ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) | ![Intel IPP](https://img.shields.io/badge/Intel_IPP-Performance-0071C5?style=for-the-badge&logo=intel&logoColor=white) <br/> ![IPC](https://img.shields.io/badge/System-IPC%2FMulti--Process-success?style=for-the-badge) |
+- 🔭 Here's my **[Portfolio](https://)**  
+- 💼 **Current Role:** Software Developer  
+- 🧠 **Specializing in:** C++, AI/ML, DICOM, Medical Imaging  
+- 🌱 Mastering: **CMake, Boost, vcpkg, RabbitMQ, DCMTK, OpenCV, MONAI, PyTorch**  
+- 🤝 Open to collaborations on **AI, C++, ML, Medical Imaging, Tools**  
+- 💬 Ask me about: **C++, AI, DICOM, CMake, Performance**  
+- 📫 Contact:  
+  [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https:t=WtMCtZ_oET6hMyPbBcf7pg&s=09)
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/baskaran-a-b6757625a/)
 
-#### 🤖 AI & Data Science
-<img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="45"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="30"/> <img src="https://img.icons8.com/color/48/000000/anaconda.png" width="45"/>
-
-#### 🛠 Tools & IDEs
-| IDE | Version Control | Database |
-| :---: | :---: | :---: |
-| <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" width="45"/> <br/> **VS Community** | <img src="https://img.icons8.com/color/48/000000/git.png" width="45"/> | <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="45"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="45"/> |
+- 😄 Pronouns: **Techie**  
+- 🌏 Fun fact: I know **Japanese 🇯🇵**  
+- 🎬 YouTube: ![Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
 
 ---
 
-### 📊 GitHub Stats
+# 🌟 **Tech Stack – What I Build With**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baskaran0708&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baskaran0708&layout=compact&theme=radical" height="180" alt="languages graph" />
-</div>
+## 🧠 AI & ML
+<img height="50" width="50" src="https://img.icons8.com/color/48/tensorflow.png"/>
+<img height="50" width="50" src="https://pytorch.org/assets/images/pytorch-logo.png"/>
+<img height="50" width="50" src="https://img.icons8.com/fluency/48/artificial-intelligence.png"/>
 
-<div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=baskaran0708&theme=dark" width="85%" />
-</div>
+---
 
-<br/>
+# 🟦 **C++ Developer (Primary Focus)**
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=baskaran0708&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
+<!-- 3D rotating C++ logo -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ItsukiHirano/3d-icons/main/cpp-3d.gif" width="150"/>
+</p>
+
+### ⚙️ **C++ Ecosystem**
+<img height="50" width="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
+<img height="50" width="50" src="https://cmake.org/wp-content/uploads/2023/11/CMake-Logo.png"/>
+<img height="50" width="50" src="https://img.icons8.com/fluency/48/boost.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/package.png"/> (vcpkg)
+<img height="50" width="50" src="https://img.icons8.com/ios-filled/50/message-queue.png"/> (RabbitMQ)
+<img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio.png"/>  
+
+### 🔧 **Core C++ Skills**
+- C++11/14/17  
+- Templates / STL / RAII / Smart pointers  
+- Multi-threading (mutex, async, thread pool)  
+- CMake (targets, presets)  
+- Linking static/dynamic libs  
+- Boost libraries  
+- Memory optimization / performance tuning  
+
+---
+
+# 📷 Imaging & DICOM
+<img height="50" width="50" src="https://img.icons8.com/color/48/medical-heart.png"/>
+
+**Tech I use:**  
+➡️ DCMTK  
+➡️ OpenCV  
+➡️ ITK (basics)  
+➡️ MONAI  
+➡️ ONNX Runtime  
+
+---
+
+# ☕ Java Developer
+<img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+
+---
+
+# 🧱 C# Developer
+<img height="50" width="50" src="https://img.icons8.com/color/48/c-sharp-logo.png"/>
+
+---
+
+# 🐍 Python Developer
+<img height="50" width="50" src="https://img.icons8.com/color/48/python.png"/>
+
+---
+
+# 🌐 Web Dev
+<img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/css3.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png"/>
+
+---
+
+# 🔧 Tools & IDEs
+<img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/pycharm.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/50/git.png"/>
+<img height="50" width="50" src="https://img.icons8.com/dusk/64/anaconda.png"/>
+<img height="50" width="50" src="https://img.icons8.com/officel/480/java-eclipse.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/480/notion--v1.png"/>
+<img height="50" width="50" src="https://img.icons8.com/doodle/48/adobe-photoshop.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/figma--v1.png"/>
+
+---
+
+# 💻 Workspace Specs
+<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple"/>
+<img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia"/>
+<img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd"/>
+
+---
+
+# 📊 GitHub Stats & Activity
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baskaran0708&layout=compact&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=baskaran0708&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baskaran0708&bg_color=170e13&color=ffffff&line=94d719&point=fafdff&area=true&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/baskaran0708/baskaran0708/blob/output/github-contribution-grid-snake.svg"/>
+</p>
