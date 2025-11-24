@@ -1,155 +1,186 @@
-<!-- 🧠 AI / C++ / Systems Dev Banner (replace link with your own image if you want) -->
-![AI • C++ • ML • Systems Developer](https://your-ai-banner-image-link-here)
+<!-- ======================= HEADER ======================= -->
 
-<!-- 📝 Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=26&duration=3000&pause=800&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Baskaran+👋;Software+Developer+%7C+AI+Engineer;C%2B%2B+%7C+Java+%7C+C%23+%7C+Python;Medical+Imaging+%26+AI+Enthusiast)](https://git.io/typing-svg)
-
+<!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=baskaran0708&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Baskaran+👋;C%2B%2B+Developer+%7C+AI+Engineer+%7C+Systems+Programmer;Building+High-Performance+%26+AI-Driven+Software+⚙️🧠"/>
+  </a>
+</p>
+
+<!-- AI Style Header Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Software%20Developer-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-C%2B%2B%20%7C%20AI%20%7C%20Systems-ff6f00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Domain-Software%20Engineering-00bcd4?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=baskaran0708&label=PROFILE+VIEWS&style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-<img align="right" width="350" height="260" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="350" height="250" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 💼 **Role:** Software Developer  
-- 🧠 **Focus:** C++, AI/ML, DICOM, Medical Imaging, System-level tools  
-- 🔬 Working on **Spine AI** – vertebra labeling, Cobb angle detection, curvature analysis  
-- 🌱 Currently deep-diving into **CMake, Boost, vcpkg, RabbitMQ, DCMTK, OpenCV, MONAI, PyTorch, ONNX**  
-- 🤝 Open to collaborate on: **AI, C++ backends, imaging pipelines, ML systems**  
-- 💬 Ask me about: **Tech, AI, C++, ML pipelines, DICOM, performance optimizations**  
+- 💼 **Software Developer**  
+- 🧠 Strong in **C++**, **AI**, **Backend**, **System-level programming**  
+- 🔧 Skilled across **multi-language ecosystems**: C++, Java, C#, Python  
+- 🌐 Passion for **performance engineering**, **AI models**, **system tools**  
+- 📫 Connect with me:  
+  [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https:t=WtMCtZ_oET6hMyPbBcf7pg&s=09)
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/baskaran-a-b6757625a/)
 - 😄 Pronouns: **Techie**  
 - 🌏 Fun fact: I know **Japanese 🇯🇵**  
 
-### 🔗 Connect with Me
+---
 
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https:t=WtMCtZ_oET6hMyPbBcf7pg&s=09)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/baskaran-a-b6757625a/)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
+# 🟦 **C++ Developer — Full Ecosystem (PRIMARY)**
+
+<p align="center">
+  <img width="70" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img width="70" src="https://cmake.org/wp-content/uploads/2023/11/CMake-Logo.png"/>
+  <img width="70" src="https://img.icons8.com/color/48/000000/package.png"/> <!-- vcpkg -->
+  <img width="70" src="https://img.icons8.com/fluency/48/null/boost.png"/>
+  <img width="70" src="https://img.icons8.com/color/48/null/visual-studio.png"/>
+  <img width="70" src="https://img.icons8.com/ios-filled/50/000000/message-queue.png"/>
+  <img width="70" src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-database-cloud-flatart-icons-outline-flatarticons.png"/>
+</p>
+
+## 🔹 **C++ Expertise**
+- Modern C++: **C++11 · C++14 · C++17**  
+- STL, templates, RAII, memory management  
+- Multithreading: `std::thread`, async, mutex, futures  
+- High-performance coding & optimizations  
+- Static/Dynamic libs, linking, ABI, toolchains  
+- CMake-based build systems (targets, presets, configs)  
+- API integrations & backend systems in C++  
 
 ---
 
-## 🧠 AI / ML Stack
-
-- 🧬 **Deep Learning:** CNN, U-Net, ResNet, DenseNet, Autoencoders  
-- 🧱 **Vision / Medical Imaging:** MONAI, PyTorch, TorchIO, OpenCV, ITK  
-- 🧪 **Medical AI:** DICOM pipelines, DCMTK, spine segmentation, Cobb angle estimation  
-- 📦 **Deployment:** ONNX / ONNX Runtime, C++ inference integration, REST/gRPC style services  
-- 📈 **Classical ML:** SVM, Random Forest, XGBoost, K-Means, Logistic Regression  
+## 🔹 **C++ Ecosystem / Libraries**
+| Category | Tech |
+|---------|------|
+| **Build Systems** | CMake, MSBuild |
+| **Package Managers** | vcpkg, (Conan basics) |
+| **Core Libraries** | Boost (ASIO, Filesystem, Process, Threads) |
+| **Imaging Libraries** | OpenCV, ITK (basic), stb_image |
+| **Messaging** | RabbitMQ (C++ AMQP clients) |
+| **Networking** | Boost.Asio, cpp-httplib |
+| **Logging** | spdlog, glog |
+| **Math / Compute** | Eigen |
+| **Testing** | GTest |
 
 ---
 
-## ⚙️ C++ Developer Stack
-
-### 🏗️ Core C++ & Language Features
-- C++11/14/17, STL, templates, RAII, smart pointers  
-- Multi-threading (`std::thread`, mutex, async), concurrency patterns  
-- Low-level memory concepts, performance tuning, profiling  
-
-### 🧰 C++ Tooling & Ecosystem
-- 🛠️ **Build Systems:** CMake (targets, toolchains, presets)  
-- 📦 **Package Managers:** vcpkg (third-party library management)  
-- 🚀 **Libraries:** Boost (filesystem, threads, process, ASIO), spdlog, fmt  
-- 🖼️ **Imaging / DICOM:** DCMTK, OpenCV, ITK  
-- 🧮 **Math / Perf:** Eigen, OpenMP (parallel loops), basic CUDA-ready mindset (GTX1650)  
-- 📨 **Messaging / Backend:** RabbitMQ (message queues, producer/consumer patterns)  
-- 🧪 **Testing:** GoogleTest, basic CI-friendly test structures  
-
-### 💻 IDEs / Compilers
+## 🔹 **Compilers & IDEs**
+- MSVC  
+- GCC  
+- Clang  
 - Visual Studio Community  
 - VS Code  
-- Clang / GCC / MSVC  
+- CLion (basics)
 
 ---
 
-## ☕ Java & 🧱 C# Developer
-
-### ☕ Java
-- Core Java, OOP, collections, multithreading basics  
-- Spring basics, REST APIs, backend-style thinking  
-
-### 🧱 C#
-- C# syntax, OOP, .NET ecosystem fundamentals  
-- Desktop/tools mindset for utilities & small services  
-
----
-
-## 🐍 Python Developer (for AI/ML)
-
-- Python for data pipelines & experimentation  
-- NumPy, Pandas, Matplotlib  
-- PyTorch, MONAI, scikit-learn  
-
----
-
-## 🌐 Web & Frontend
-
-- HTML5, CSS3, Sass, Bootstrap  
-- JavaScript, React  
-- Firebase, basic full-stack thinking  
-
----
-
-## 🛠️ IDEs, Tools & Productivity
-
-<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
-<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-<img height="40" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-<img height="40" src="https://img.icons8.com/color/50/000000/git.png"/>
-<img height="40" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
-<img height="40" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
-<img height="40" src="https://img.icons8.com/color/480/null/notion--v1.png" />
-<img height="40" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>
-<img height="40" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-
----
-
-## 💻 Workspace
-
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> 
-<img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  
-<img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
-
----
-
-## 📊 GitHub & Language Stats
+# 🧠 AI / Machine Learning Stack
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=baskaran0708&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baskaran0708&layout=compact&theme=radical&hide_border=true" />
+  <img width="60" src="https://img.icons8.com/color/48/000000/artificial-intelligence.png"/>
+  <img width="60" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+  <img width="60" src="https://pytorch.org/assets/images/pytorch-logo.png"/>
+  <img width="60" src="https://img.icons8.com/fluency/48/000000/computer-chip.png"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baskaran0708&bg_color=170e13&color=ffffff&line=94d719&point=fafdff&area=true&hide_border=true" alt="activity graph" />
-</p>
+### 🔹 AI Models / Algorithms
+- CNNs: ResNet, DenseNet, MobileNet  
+- U-Net, Attention U-Net  
+- Autoencoders, Feature extraction  
+- Classical ML: SVM, RF, K-Means, PCA  
+
+### 🔹 AI Tools
+- PyTorch · MONAI  
+- TensorFlow / Keras  
+- NumPy · Pandas · SciPy  
+- scikit-learn  
+- ONNX · ONNX Runtime  
+- Jupyter / Anaconda  
 
 ---
 
-## 🐍 3D GitHub Contribution Snake
+# ☕ Java Developer
 
-<!-- Make sure you set up the GitHub Action for this in your repo  -->
 <p align="center">
-  <img src="https://github.com/baskaran0708/baskaran0708/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img height="60" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 </p>
+
+- Core Java (OOP, multithreading, collections)  
+- REST APIs (Spring Boot basics)  
+- Backend utilities & JSON processing  
 
 ---
 
-## 🧩 Competitive Programming / Problem Solving
+# 🧱 C# Developer
 
-<!-- Replace YOUR-LEETCODE-USERNAME with your handle if different -->
 <p align="center">
-  <img src="https://leetcode.card.workers.dev/baskaran0708?theme=dark&font=source_code_pro&extension=activity" alt="LeetCode Stats" />
+  <img height="60" src="https://img.icons8.com/color/48/null/c-sharp-logo.png"/>
+</p>
+
+- Console tools & utilities  
+- .NET basics  
+- Interop tools around AI/C++ pipelines  
+
+---
+
+# 🐍 Python Developer
+
+<p align="center">
+  <img height="60" src="https://img.icons8.com/color/48/000000/python.png"/>
+</p>
+
+- AI model prototyping  
+- Dataset tools  
+- Automation scripts  
+
+---
+
+# 🌐 Web Skills
+
+<p align="center">
+  <img width="50" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img width="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
 </p>
 
 ---
 
-### 🚀 Currently
+# 🛠️ Tools
 
-- Building **AI pipelines in C++ + Python**  
-- Exploring **high-performance imaging**, **spine AI**, and **system-level C++ tools**  
-- Leveling up for **FAANG-style placements** and **deep systems + AI roles**  
+<p align="center">
+  <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/null/visual-studio.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+  <img height="50" src="https://img.icons8.com/color/50/000000/git.png"/>
+  <img height="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
+  <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+</p>
 
-> _“Ship, learn, optimize, repeat.”_ 🔁
+---
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baskaran0708&layout=compact&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=baskaran0708&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baskaran0708&bg_color=0d1117&color=00eaff&line=00ff62&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/baskaran0708/baskaran0708/blob/output/github-contribution-grid-snake.svg"/>
+</p>
