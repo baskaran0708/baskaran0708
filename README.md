@@ -28,5 +28,3 @@ Computer Science MCA Student
 ![Baskaran's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=baskaran0708&bg_color=170e13&color=ffffff&line=94d719&point=fafdff&area=true&hide_border=true)]
 
 [![Leetcode Stats]
-
----this is my exiting my github readme profile can you implement my current role Software developer and add currentlly using tool like cmake c++ boost vcpackage and vs community and rabbitmq and  create it more teche profile based on Ai developer and C++ developer and Java Developer and C# developer this all technology include it----this is my github profile i want update this projfile i alredy you know i master it c++ that related lib aslo dcmtk, itk, opencv, ipc, rapidjson, ipp, multiprocess so add more logo animation styles profile create it
